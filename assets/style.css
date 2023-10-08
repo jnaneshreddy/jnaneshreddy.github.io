@@ -10,7 +10,7 @@
     --text-color-third: rgb(30, 159, 171);
 
     --first-color: rgb(121, 100, 228);
-    --first-color-hover: rgb(40, 91, 212);
+    --first-color-hover: #206777;
 
     --second-color:#206777;
     --third-color: rgb(192, 166, 49);
@@ -688,4 +688,7 @@ a{
 }
 .watslink:hover{
     color: sk;
+}
+.btndw{
+    color: black;
 }
