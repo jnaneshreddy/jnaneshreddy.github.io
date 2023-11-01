@@ -74,9 +74,28 @@ i{
 }
 
 /* ------- BASE -------- */
-body{
+/* body{
     background: var(--body-color);
-}
+} */
+ body {
+        position: relative;
+      }
+      
+      body::before {
+        content: "";
+        background-image: url('./flag.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0.5; /* Adjust the opacity level (0.7) */
+        z-index: -1; /* Place it behind the content */
+      }
 .container{
     width: 100%;
     position: relative;
