@@ -83,7 +83,7 @@ i{
       
       body::before {
         content: "";
-        background-image: url('./flag.jpg');
+        background-image: url('../assets/flag.jpg');
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
