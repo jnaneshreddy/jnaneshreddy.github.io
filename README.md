@@ -13,4 +13,4 @@
 <strong>JS:</strong><p>Used add some Dynamic animations in the web page</p>
 <hr>
 <strong><h3>Open To Use</h3></strong>
-<a href="https://jnaneshreddy.me">jnaneshreddy.me</a>
+<a href="https://jnaneshreddy.me"><h1></h1>jnaneshreddy.me</h1></a>
